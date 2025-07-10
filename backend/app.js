@@ -10,7 +10,7 @@ const app = express();
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:5173", // Add common Vite development port
-  
+  "https://royaldine.netlify.app"
   // Add any other origins your frontend might use
 ];
 app.use(
