@@ -1,4 +1,4 @@
-```md
+
 # 🍽️ Royal Dine - MERN Stack Restaurant Reservation App
 
 Welcome to **Royal Dine**!  
